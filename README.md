@@ -7,7 +7,6 @@ This repository contains Python and R implementations of a 6-layer CNN for class
 - `fashion_mnist_cnn.R`: R implementation
 - `fashion_minst_cnn.ipynp` : Jupyter Notebook
 - `fashion_minst_test` : Test Data set
-- `fashion_minst_train` : Training data set
 
 ## Requirements
 - Python: TensorFlow, Keras, NumPy, Pandas, Matplotlib
