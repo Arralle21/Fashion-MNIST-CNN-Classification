@@ -7,6 +7,7 @@ This repository contains Python and R implementations of a 6-layer CNN for class
 - `fashion_mnist_cnn.R`: R implementation
 - `fashion_minst_cnn.ipynp` : Jupyter Notebook
 - `fashion_minst_test` : Test Data set
+## Full data set can accessed here: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 
 ## Requirements
 - Python: TensorFlow, Keras, NumPy, Pandas, Matplotlib
